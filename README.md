@@ -1,6 +1,26 @@
-# Getting Started with Create React App
+# Task-Tracker
+Task tracker app built with React and a mock API from JSON server.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![This is an image](Demo.gif)
+
+
+## Features
+* Full CRUD functionality to add, read, delete and update tasks. 
+* The user can set reminders by double clicking on any task.
+* Tasks with a reminder are marked with a green bar on the side.
+* Users can add new tasks by clicking on the 'Add' button. 
+* Users can hide the add form by clicking on the 'Close' button.
+* Any changes in the tasks data will be updated by making calls to the API.
+
+## Technologies
+```
+HTML
+CSS
+JAVASCRIPT
+REACT.JS
+JSON Server
+NPM Package Manager
+```
 
 ## Available Scripts
 
